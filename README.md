@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=junpyo4515)](https://solved.ac/junpyo4515)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun1023)](https://github.com/Jun1023/github-readme-stats)
